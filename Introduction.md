@@ -1,11 +1,15 @@
-### Introduction to Maven
+# Introduction to Maven
+------------
 
- - What is Maven?  
+
+ ## What is Maven?  
+ -----------------
 
 Maven is an advanced build tool to support the developer at the whole process of a software project. Typical tasks of a build tool are the compilation of source code, running the tests and packaging the result into JAR files. In additional to these typical build capabilities, Maven can also perform related activities, e.g., create web sites, upload build results or generate reports.
 Maven allows the developer to automate the process of the creation of the initial folder structure for the Java application, performing the compilation and testing and the packaging and deployment of the final product. It is implemented in Java which makes it platform-independent. Java is also the best work environment for Maven.
 
- - Key features of Maven    
+##Key features of Maven   
+------------
 
 
 Apache Maven can be used in environments where common build tools like GNU Make or Apache Ant were used. The key features of Maven are:
@@ -27,10 +31,12 @@ Apache Maven can be used in environments where common build tools like GNU Make 
 
 
 In case you want to be able to use Maven from the command line you need to install the Maven command line support. If you plan to use Maven only from within your Eclipse IDE this installation is not required.
- For a manual installation you can download Maven from the following URL [Maven Download page!](http://maven.apache.org/download.cgi). Extract the downloaded distribution to a selected folder on your computer and add the M2_HOME environment pointing to this directory. Add M2_HOME/bin to your path variable.See Maven installation description for a detailed installation guide.
+ For a manual installation you can download Maven from the following URL [Maven Download page!](http://maven.apache.org/download.cgi). Extract the downloaded distribution to a selected folder on your computer and add the M2_HOME environment pointing to this directory. Add M2_HOME/bin to your path variable.See Maven installation description for a detailed installation guide.  
+ 
 
 
- - Maven Overview-Core Concepts  
+ ## Maven Overview-Core Concepts  
+ -----------------------------
 
 Maven is centered around the concept of POM files (Project Object Model). A POM file is an XML representation of project resources like source code, test code, dependencies (external JARs used) etc. The POM contains references to all of these resources. The POM file should be located in the root directory of the project it belongs to.
 
