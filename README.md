@@ -9,11 +9,13 @@ This is the presentation 3 for Fall 2015 CSCI 5828 class. This presentation give
 
 - [Introduction to Maven](Introduction.md)  
 
+- [Environment Setup](Maven_Environment Setup.md)  
+
+###Chapter 2: More about Maven   
+
 - [Maven POM Files](Maven POM Files.md)  
 
 - [Maven Plug-ins, Goals and Life Cycle](SpringBean.md)  
-
-###Chapter 2: More about Maven   
 
 - [Maven Repositories and Dependency Resolution](Maven_Repository.md)  
 
