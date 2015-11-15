@@ -111,12 +111,9 @@ Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 
 ```  
 
-
-
-    ![Alt text](/picture/maven_eclipse5.jpg)  
-
-
 Now, right click on App.java. Select Run As option. Select As Java Application.
+
+  ![Alt text](/picture/maven_eclipse5.jpg)  
 
 You will see the result  
 
