@@ -11,7 +11,9 @@ In this part, we are going to talk about maven repository and dependency search 
 
     [<i class="icon-file"></i>Remote repository](#remote-repository)  
 
-        [<i class="icon-file"></i>Maven Dependency Search Sequence](#maven-dependency-search-sequence)  
+ [<i class="icon-file"></i>Maven Dependency Search Sequence](#maven-dependency-search-sequence)  
+
+
 
     
 
