@@ -15,10 +15,8 @@ Eclipse provides an excellent plugin m2eclipse which seamlessly integrates Maven
 
 
 
- [<i class="icon-file"></i>Installing m2eclipse plugin](#installing-m2eclipse-plugin)  
-
-  [<i class="icon-file"></i>Import a maven project in Eclipse](#import-a-maven-project-in-Eclipse)  
-
+ [<i class="icon-file"></i>Installing m2eclipse plugin](#installing-m2eclipse-plugin)
+  [<i class="icon-file"></i>Import a maven project in Eclipse](#import-a-maven-project-in-Eclipse)
 
 
 ##Installing m2eclipse plugin
