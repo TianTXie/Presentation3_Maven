@@ -14,7 +14,7 @@ Eclipse provides an excellent plugin m2eclipse which seamlessly integrates Maven
 - It provides quick search for dependencies in remote Maven repositories
 
 
-
+Two steps:
  [<i class="icon-file"></i>Installing m2eclipse plugin](#installing-m2eclipse-plugin)  
 
   [<i class="icon-file"></i>Import a maven project in Eclipse](#import-a-maven-project-in-Eclipse)  
