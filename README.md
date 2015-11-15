@@ -28,3 +28,9 @@ This is the presentation 3 for Fall 2015 CSCI 5828 class. This presentation give
 - [Create, build and execute a Java program with Maven](Maven_Create&Build Project.md)  
 
 - [Maven-Eclipse IDE](Maven_Eclipse.md)  
+
+###Chapter 4: Summary  
+
+- [Summary](Maven_Create&Build Project.md)  
+
+- [Reference](Reference.md)  
