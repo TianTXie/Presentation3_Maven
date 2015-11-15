@@ -28,19 +28,26 @@ Following example will help you to leverage benefits of integrating Eclipse and 
 ##Import a maven project in Eclipse
 - Open Eclipse.  
 - Select File > **Import** > option.  
-- Select Maven Projects Option. Click on Next Button.
- ![Alt text](/picture/maven_eclipse1.jpg)
+- Select Maven Projects Option. Click on Next Button.  
+
+ ![Alt text](/picture/maven_eclipse1.jpg)  
+
 
 - Select Project location, where a project was created using Maven. We've create a Java Project ***consumerBanking***. See **Maven Creating Project** to see how to create a project using Maven.  
-- Click Finish Button.
+- Click Finish Button.  
 
- ![Alt text](/picture/maven_eclipse2.jpg)
+
+ ![Alt text](/picture/maven_eclipse2.jpg)  
+
  Now, you can see the maven project in eclipse.
 
-  ![Alt text](/picture/maven_eclipse3.jpg)
-Now, have a look at consumerBanking project properties.You can see that Eclipse has added Maven dependencies to java build path.
+  ![Alt text](/picture/maven_eclipse3.jpg)  
 
-   ![Alt text](/picture/maven_eclipse4.jpg)
+Now, have a look at consumerBanking project properties.You can see that Eclipse has added Maven dependencies to java build path.  
+
+
+   ![Alt text](/picture/maven_eclipse4.jpg)  
+
 Now, Its time to build this project using maven capability of eclipse.
 - Right Click on consumerBanking project to open context menu.
 - Select Run as option
@@ -104,12 +111,14 @@ Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 ```
 
 
-    ![Alt text](/picture/maven_eclipse5.jpg)
+    ![Alt text](/picture/maven_eclipse5.jpg)  
+
 
 Now, right click on App.java. Select Run As option. Select As Java Application.
 
-You will see the result
+You will see the result  
+
 ```
 Hello World!
 ```
-> Written with [StackEdit](https://stackedit.io/).
+
