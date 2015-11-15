@@ -1,7 +1,8 @@
 
 #Maven Repository and Dependency Search
 
-In this part, we are going to talk about maven repository and dependency search in the following sequences: 
+In this part, we are going to talk about maven repository and dependency search in the following sequences:   
+
 [<i class="icon-file"></i>What is a Maven Repository?](#what-is-a-maven-repository?)  
 
 [<i class="icon-file"></i>Local repository](#local-repository)  
