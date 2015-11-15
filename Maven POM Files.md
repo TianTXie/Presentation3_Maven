@@ -1,6 +1,6 @@
 
 
-###Maven POM files
+#Maven POM files
 A Maven POM file (Project Object Model) is an XML file that describe the resources of the project. This includes the directories where the source code, test source etc. is located in, what external dependencies (JAR files) your projects has etc.
 
 The POM file describes what to build, but most often not how to build it. How to build it is up to the Maven build phases and goals. You can insert custom actions (goals) into the Maven build phase if you need to, though.
@@ -50,7 +50,7 @@ You can make a POM file explicitly inherit from another POM file. That way you c
     <modelVersion>4.0.0</modelVersion>
 
         <parent>
-        <groupId>org.codehaus.mojo</groupId>
+        <groupId>org.code.csci</groupId>
         <artifactId>my-parent</artifactId>
         <version>2.0</version>
         <relativePath>../my-parent</relativePath>

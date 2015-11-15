@@ -11,15 +11,15 @@ This is the presentation 3 for Fall 2015 CSCI 5828 class. This presentation give
 
 - [Maven POM Files](Maven POM Files.md)  
 
-- [Maven Plug-ins, Goals and Life Cycle](Maven Plug-ins, Goals and Life cycle.md)  
+- [Maven Plug-ins, Goals and Life Cycle](Maven_Plug-ins_GoalsandLifecycle.md)  
 
 ###Chapter 2: More about Maven   
 
 - [Maven Repositories and Dependency Resolution](Maven_Repository.md)  
 
-- [Maven Profiles and Properties](Maven Profiles and Properties.md)  
+- [Maven Profiles and Properties](Maven_Profiles and_Properties.md)  
 
-- [Maven Project Templates](Maven Project Templates.md)  
+- [Maven Project Templates](Maven_Project_Templates.md)  
 
 ###Chapter 3: Maven Project  
 
