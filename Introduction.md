@@ -61,4 +61,4 @@ Here is a diagram illustrating how Maven uses the POM file, and what the POM fil
   Build profiles are used if you need to build your project in different ways. For instance, you may need to build your project for your local computer, for development and test. And you may need to build it for deployment on your production environment. These two builds may be different. To enable different builds you can add different build profiles to your POM files. When executing Maven you can tell which build profile to use.  
 
 
-    [NEXT](Maven_Environment Setup.md)
+[NEXT](Maven_Environment Setup.md)
