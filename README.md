@@ -11,7 +11,7 @@ This is the presentation 3 for Fall 2015 CSCI 5828 class. This presentation give
 
 - [Environment Setup](Maven_Environment Setup.md)  
 
-###Chapter 2: More about Maven   
+###Chapter 2: Basic knowledge of Maven  
 
 - [Maven POM Files](Maven POM Files.md)  
 
@@ -31,6 +31,6 @@ This is the presentation 3 for Fall 2015 CSCI 5828 class. This presentation give
 
 ###Chapter 4: Summary  
 
-- [Summary](Maven_Create&Build Project.md)  
+- [Summary](Summary.md)  
 
 - [Reference](Reference.md)  
