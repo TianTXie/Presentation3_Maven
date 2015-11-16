@@ -17,8 +17,8 @@ Let's open command console, go the C:\MVN directory and execute the following **
 
 ```
 C:\MVN>mvn archetype:generate
--DgroupId=com.companyname.bank 
--DartifactId=consumerBanking 
+-DgroupId=com.companyname.group-project
+-DartifactId=project
 -DarchetypeArtifactId=maven-archetype-quickstart 
 -DinteractiveMode=false
 ```
@@ -47,13 +47,13 @@ Maven will start processing and will create the complete java application projec
  maven-archetype-quickstart:1.0
 [INFO] -------------------------------------------------------------------------
 ---
-[INFO] Parameter: groupId, Value: com.companyname.bank
-[INFO] Parameter: packageName, Value: com.companyname.bank
-[INFO] Parameter: package, Value: com.companyname.bank
-[INFO] Parameter: artifactId, Value: consumerBanking
+[INFO] Parameter: groupId, Value: com.companyname.project-group
+[INFO] Parameter: packageName, Value: com.companyname.project
+[INFO] Parameter: package, Value: com.companyname.project
+[INFO] Parameter: artifactId, Value: project
 [INFO] Parameter: basedir, Value: C:\MVN
 [INFO] Parameter: version, Value: 1.0-SNAPSHOT
-[INFO] project created from Old (1.x) Archetype in dir: C:\MVN\consumerBanking
+[INFO] project created from Old (1.x) Archetype in dir: C:\MVN\project-group
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
@@ -78,7 +78,7 @@ Using above example, we can understand following **key concepts**:
 If you see, Maven also created a sample Java Source file and Java Test file. Open C:\MVN\consumerBanking\src\main\java\com\companyname\bank folder, you will see App.java.
 
 ```
-package com.companyname.bank;
+package com.companyname.group-project;
 
 /**
  * Hello world!
