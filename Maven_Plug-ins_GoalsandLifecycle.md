@@ -24,3 +24,6 @@ The following lists gives an overview of the important Maven life cycle phases.
 For a complete list of the Maven phases see [Maven life cycle reference](http://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#Lifecycle_Reference).
 
 If you instruct Maven to execute a phase, Maven executes all existing phases n the pre-defined sequence until has executed the defined phase. All relevant goals are executed during this process. A goal is relevant for a phase if the Maven plug-in or the POM bind this goal to the corresponding Maven life cycle phase.
+
+  
+  [NEXT](Maven_Repository.md)

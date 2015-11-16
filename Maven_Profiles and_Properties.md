@@ -53,3 +53,6 @@ On the command line you can override such parameters and demonstrated in the fol
 ```
 mvn clean install -DskipTests=false
 ```
+
+  
+  [NEXT](Maven_Project_Templates.md)

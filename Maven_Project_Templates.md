@@ -78,3 +78,5 @@ Now Maven will start creating project structure and will display the following:
 Now go to **./MVN** directory. You'll see a java application project created named **project** which was given as artifactId at the time of project creation.
 
 ##
+  
+  [NEXT](Maven_Create&Build Project.md)

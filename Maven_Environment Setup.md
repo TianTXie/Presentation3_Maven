@@ -98,3 +98,5 @@ Mac|machine:~ joseph$ mvn --version
 Finally, verify the output of the above commands, which should be something as follows:
 ![Alt text](/picture/maven_setup.png)
 
+[NEXT](Maven POM Files.md)
+

@@ -113,3 +113,6 @@ When we execute Maven build commands, Maven starts looking for dependency librar
 **Step 3** - If a remote repository has not been mentioned, Maven simply stops the processing and throws error (Unable to find dependency).
 
 **Step 4** - Search dependency in remote repository or repositories, if found then it is downloaded to local repository for future reference otherwise Maven as expected stop processing and throws error (Unable to find dependency).
+
+  
+[NEXT](Maven_Profiles and_Properties.md)

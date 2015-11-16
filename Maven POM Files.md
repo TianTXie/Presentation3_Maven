@@ -70,3 +70,5 @@ With all this POM inheritance it may be hard to know what the total POM file loo
 mvn help:effective-pom
 ```
 This command will make Maven write out the effective POM to the command line prompt.
+
+[NEXT](Maven Plug-ins, Goals and Life Cycle.md)
